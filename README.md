@@ -1,10 +1,2 @@
 # winphptoR
-PHP to R by Windows
-
-## PHP
-
-```
-```
-## R
-```
-```
+PHP to R by Windows.
